@@ -32,106 +32,51 @@ namespace Aktualizacja_tekstu
             var blue = radBlue.Checked;
             var orange = radOrange.Checked;
 
+            //Wielkość
             if (small == true)
             {
-                textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Regular);
-
-                if (bold == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Bold);
-                }
-                if (slope == true)
-                { 
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Italic);
-                }
-                if (underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Underline);
-                }
-                if (bold == true && slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Bold | FontStyle.Italic);
-                }
-                if (bold == true && underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Bold | FontStyle.Underline);
-                }
-                if (underline == true && slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Italic | FontStyle.Underline);
-                }
-                if (slope == true && bold == true && underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 8, FontStyle.Italic | FontStyle.Underline | FontStyle.Bold);
-                }
+                textBox1.Font = new Font("Arial", 10, FontStyle.Regular);
             }
             else if (large == true)
             {
-                textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Regular);
-
-                if (bold == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Bold);
-                }
-                if (slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Italic);
-                }
-                if (underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Underline);
-                }
-                if (bold == true && slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Bold | FontStyle.Italic);
-                }
-                if (bold == true && underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Bold | FontStyle.Underline);
-                }
-                if (underline == true && slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Italic | FontStyle.Underline);
-                }
-                if (slope == true && bold == true && underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 10, FontStyle.Italic | FontStyle.Underline | FontStyle.Bold);
-                }
+                textBox1.Font = new Font("Arial", 15, FontStyle.Regular);
             }
             else if (vLarge == true)
             {
-                textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Regular);
-
-                if (bold == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Bold);
-                }
-                if (slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Italic);
-                }
-                if (underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Underline);
-                }
-                if (bold == true && slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Bold | FontStyle.Italic);
-                }
-                if (bold == true && underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Bold | FontStyle.Underline);
-                }
-                if (underline == true && slope == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Italic | FontStyle.Underline);
-                }
-                if (slope == true && bold == true && underline == true)
-                {
-                    textBox1.Font = new System.Drawing.Font("Arial", 12, FontStyle.Italic | FontStyle.Underline | FontStyle.Bold);
-                }
+                textBox1.Font = new Font("Arial", 20, FontStyle.Regular);
             }
 
+            //Styl czcionki
+            if (slope == true && bold == true && underline == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Italic | FontStyle.Underline | FontStyle.Bold);
+            }
+            else if (underline == true && slope == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Italic | FontStyle.Underline);
+            }
+            else if (bold == true && underline == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Bold | FontStyle.Underline);
+            }
+            else if (bold == true && slope == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Bold | FontStyle.Italic);
+            }
+            else if (underline == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Underline);
+            }
+            else if (slope == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Italic);
+            }
+            else if (bold == true)
+            {
+                textBox1.Font = new Font(textBox1.Font, FontStyle.Bold);
+            }
+
+            // Kolora
             if (red == true)
             {
                 textBox1.ForeColor = Color.Red;
