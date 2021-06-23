@@ -1,0 +1,24 @@
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\Add student.exe
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\Add student.deps.json
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\Add student.runtimeconfig.json
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\Add student.runtimeconfig.dev.json
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\Add student.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\ref\Add student.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\bin\Debug\net5.0-windows\Add student.pdb
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\App.g.cs
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student_MarkupCompile.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student_MarkupCompile.lref
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\MainWindow.baml
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.g.resources
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.GeneratedMSBuildEditorConfig.editorconfig
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.AssemblyInfoInputs.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.AssemblyInfo.cs
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.csproj.CoreCompileInputs.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\ref\Add student.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.pdb
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.genruntimeconfig.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\StudentWindow.g.cs
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\StudentWindow.baml
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\LAB_04\Add student\obj\Debug\net5.0-windows\Add student.csproj.AssemblyReference.cache

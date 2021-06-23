@@ -1,0 +1,22 @@
+﻿<Window x:Class="Add_student.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Add_student"
+        mc:Ignorable="d"
+        Title="Main Window" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="bAddStudent" Content="Add Student" HorizontalAlignment="Left" Margin="40,65,0,0" VerticalAlignment="Top" Height="30" Width="102" Grid.Column="1" Click="bAddStudent_Click"/>
+        <Button x:Name="bRemoveStudent" Content="Remove student" HorizontalAlignment="Left" Margin="200,65,0,0" VerticalAlignment="Top" Height="30" Width="101" Grid.Column="1" Click="bRemoveStudent_Click"/>
+        <Button x:Name="bEditStudent" Content="Edit Student" HorizontalAlignment="Center" Margin="0,65,0,0" VerticalAlignment="Top" Height="30" Width="100" Grid.Column="1" Click="bEditStudent_Click"/>
+        <Button x:Name="bAddSchoolGrades" Content="Add school grades" HorizontalAlignment="Left" Margin="487,65,0,0" VerticalAlignment="Top" Height="30" Width="124" Grid.Column="1" Click="bAddSchoolGrades_Click"/>
+        <Button x:Name="bSchoolGrades" Content="School grades" HorizontalAlignment="Left" Margin="640,65,0,0" VerticalAlignment="Top" Height="30" Width="124" Grid.Column="1" Click="bSchoolGrades_Click"/>
+        <DataGrid x:Name="dgStudent" Margin="5,112,5,10" Grid.ColumnSpan="5">
+        </DataGrid>
+    </Grid>
+</Window>
