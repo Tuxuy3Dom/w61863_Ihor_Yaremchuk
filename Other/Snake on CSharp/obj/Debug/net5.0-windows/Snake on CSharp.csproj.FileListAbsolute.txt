@@ -1,0 +1,18 @@
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\Snake on CSharp.exe
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\Snake on CSharp.deps.json
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\Snake on CSharp.runtimeconfig.json
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\Snake on CSharp.runtimeconfig.dev.json
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\Snake on CSharp.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\ref\Snake on CSharp.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\bin\Debug\net5.0-windows\Snake on CSharp.pdb
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.csproj.AssemblyReference.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake_on_CSharp.Form1.resources
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.csproj.GenerateResource.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.AssemblyInfoInputs.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.AssemblyInfo.cs
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.csproj.CoreCompileInputs.cache
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\ref\Snake on CSharp.dll
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.pdb
+E:\WSIZ\(2)_Second_Year\Two_semestr\Labaratorium\Programowanie (.NET)\GitHub-my-work\w61863_Ihor_Yaremchuk\Other\Snake on CSharp\obj\Debug\net5.0-windows\Snake on CSharp.genruntimeconfig.cache
